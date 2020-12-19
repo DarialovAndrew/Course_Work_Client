@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d4b7158-ce82-4873-88ad-1a2afbb1f0f1" name="Default Changelist" comment="" />
+    <list default="true" id="8d4b7158-ce82-4873-88ad-1a2afbb1f0f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Client_1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Client_1.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,10 +32,14 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1kpPabRX076qAcBaZmH8glu6h5l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,7 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CourseWork" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Client_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -112,7 +119,14 @@
       <workItem from="1606499728773" duration="28000" />
       <workItem from="1606501998691" duration="919000" />
       <workItem from="1606511407604" duration="361000" />
-      <workItem from="1606512089325" duration="230000" />
+      <workItem from="1606512089325" duration="412000" />
+      <workItem from="1606553022581" duration="614000" />
+      <workItem from="1606559618190" duration="862000" />
+      <workItem from="1606564499615" duration="21000" />
+      <workItem from="1606601114429" duration="66000" />
+      <workItem from="1608369776509" duration="227000" />
+      <workItem from="1608371249317" duration="1317000" />
+      <workItem from="1608383217284" duration="2238000" />
     </task>
     <servers />
   </component>
@@ -120,33 +134,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="534" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606560504956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="534" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1606560504956" />
     <state x="533" y="334" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1606394697957">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="533" y="334" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824@0.0.1536.824" timestamp="1606394697957" />
-    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1606512125636">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1606559859011">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606512125636" />
-    <state width="1493" height="310" key="GridCell.Tab.0.bottom" timestamp="1606508389732">
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606559859011" />
+    <state width="1493" height="310" key="GridCell.Tab.0.bottom" timestamp="1608385515635">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="310" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606508389732" />
-    <state width="1493" height="310" key="GridCell.Tab.0.center" timestamp="1606508389731">
+    <state width="1493" height="310" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608385515635" />
+    <state width="1493" height="310" key="GridCell.Tab.0.center" timestamp="1608385515635">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="310" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606508389731" />
-    <state width="1493" height="310" key="GridCell.Tab.0.left" timestamp="1606508389731">
+    <state width="1493" height="310" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608385515635" />
+    <state width="1493" height="310" key="GridCell.Tab.0.left" timestamp="1608385515634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="310" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606508389731" />
-    <state width="1493" height="310" key="GridCell.Tab.0.right" timestamp="1606508389732">
+    <state width="1493" height="310" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608385515634" />
+    <state width="1493" height="310" key="GridCell.Tab.0.right" timestamp="1608385515635">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="310" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606508389732" />
-    <state x="209" y="141" key="new project wizard" timestamp="1606499755042">
+    <state width="1493" height="310" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608385515635" />
+    <state x="209" y="80" key="new project wizard" timestamp="1608370002577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="209" y="141" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1606499755042" />
+    <state x="209" y="80" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1608370002577" />
   </component>
 </project>

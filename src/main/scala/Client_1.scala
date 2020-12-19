@@ -6,7 +6,7 @@ object Client_1 {
   def main(args: Array[String]): Unit = {
     println("How inaccurate is the clock")
     val serverName: String = "localhost"
-    val serverPort: Int = 8080
+    val serverPort: Int = 8891
     val request_time: Long = System.currentTimeMillis()
     val client: Socket = new Socket(serverName, serverPort)
     val inFromServer: InputStream = client.getInputStream
